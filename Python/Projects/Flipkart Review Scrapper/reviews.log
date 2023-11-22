@@ -1,0 +1,155 @@
+2023-07-12 10:17:56,869 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.3:5000
+2023-07-12 10:17:56,870 INFO [33mPress CTRL+C to quit[0m
+2023-07-12 10:18:36,999 INFO 172.18.0.2 - - [12/Jul/2023 10:18:36] "%s" %s %s
+2023-07-12 10:18:37,141 INFO 172.18.0.2 - - [12/Jul/2023 10:18:37] "%s" %s %s
+2023-07-12 10:18:37,154 INFO 172.18.0.2 - - [12/Jul/2023 10:18:37] "%s" %s %s
+2023-07-12 10:18:37,588 INFO 172.18.0.2 - - [12/Jul/2023 10:18:37] "%s" %s %s
+2023-07-12 10:18:43,692 INFO name found
+2023-07-12 10:18:43,692 INFO place found
+2023-07-12 10:18:43,693 INFO rating found
+2023-07-12 10:18:43,693 INFO comment_head found
+2023-07-12 10:18:43,693 INFO comment found
+2023-07-12 10:18:43,694 INFO Date  found
+2023-07-12 10:18:43,694 INFO Values addded to the list
+2023-07-12 10:18:43,694 INFO name found
+2023-07-12 10:18:43,694 INFO place found
+2023-07-12 10:18:43,694 INFO rating found
+2023-07-12 10:18:43,695 INFO comment_head found
+2023-07-12 10:18:43,695 INFO comment found
+2023-07-12 10:18:43,695 INFO Date  found
+2023-07-12 10:18:43,695 INFO Values addded to the list
+2023-07-12 10:18:43,696 INFO name found
+2023-07-12 10:18:43,696 INFO place found
+2023-07-12 10:18:43,696 INFO rating found
+2023-07-12 10:18:43,696 INFO comment_head found
+2023-07-12 10:18:43,697 INFO comment found
+2023-07-12 10:18:43,697 INFO Date  found
+2023-07-12 10:18:43,697 INFO Values addded to the list
+2023-07-12 10:18:43,697 INFO name found
+2023-07-12 10:18:43,697 INFO place found
+2023-07-12 10:18:43,698 INFO rating found
+2023-07-12 10:18:43,698 INFO comment_head found
+2023-07-12 10:18:43,698 INFO comment found
+2023-07-12 10:18:43,698 INFO Date  found
+2023-07-12 10:18:43,699 INFO Values addded to the list
+2023-07-12 10:18:43,699 INFO name found
+2023-07-12 10:18:43,699 INFO place found
+2023-07-12 10:18:43,699 INFO rating found
+2023-07-12 10:18:43,699 INFO comment_head found
+2023-07-12 10:18:43,700 INFO comment found
+2023-07-12 10:18:43,700 INFO Date  found
+2023-07-12 10:18:43,700 INFO Values addded to the list
+2023-07-12 10:18:43,700 INFO name found
+2023-07-12 10:18:43,701 INFO place found
+2023-07-12 10:18:43,701 INFO rating found
+2023-07-12 10:18:43,701 INFO comment_head found
+2023-07-12 10:18:43,701 INFO comment found
+2023-07-12 10:18:43,702 INFO Date  found
+2023-07-12 10:18:43,702 INFO Values addded to the list
+2023-07-12 10:18:43,702 INFO name found
+2023-07-12 10:18:43,702 INFO place found
+2023-07-12 10:18:43,703 INFO rating found
+2023-07-12 10:18:43,703 INFO comment_head found
+2023-07-12 10:18:43,703 INFO comment found
+2023-07-12 10:18:43,703 INFO Date  found
+2023-07-12 10:18:43,703 INFO Values addded to the list
+2023-07-12 10:18:43,704 INFO name found
+2023-07-12 10:18:43,704 INFO place found
+2023-07-12 10:18:43,704 INFO rating found
+2023-07-12 10:18:43,704 INFO comment_head found
+2023-07-12 10:18:43,705 INFO comment found
+2023-07-12 10:18:43,705 INFO Date  found
+2023-07-12 10:18:43,705 INFO Values addded to the list
+2023-07-12 10:18:43,705 INFO name found
+2023-07-12 10:18:43,705 INFO place found
+2023-07-12 10:18:43,706 INFO rating found
+2023-07-12 10:18:43,706 INFO comment_head found
+2023-07-12 10:18:43,706 INFO comment found
+2023-07-12 10:18:43,707 INFO Date  found
+2023-07-12 10:18:43,707 INFO Values addded to the list
+2023-07-12 10:18:43,707 INFO name found
+2023-07-12 10:18:43,707 INFO place found
+2023-07-12 10:18:43,707 INFO rating found
+2023-07-12 10:18:43,708 INFO comment_head found
+2023-07-12 10:18:43,708 INFO comment found
+2023-07-12 10:18:43,708 INFO Date  found
+2023-07-12 10:18:43,708 INFO Values addded to the list
+2023-07-12 10:18:43,714 INFO 172.18.0.2 - - [12/Jul/2023 10:18:43] "%s" %s %s
+2023-07-12 10:18:43,843 INFO 172.18.0.2 - - [12/Jul/2023 10:18:43] "%s" %s %s
+2023-07-12 10:18:43,860 INFO 172.18.0.2 - - [12/Jul/2023 10:18:43] "%s" %s %s
+2023-07-12 10:19:22,007 INFO name found
+2023-07-12 10:19:22,008 INFO place found
+2023-07-12 10:19:22,008 INFO rating found
+2023-07-12 10:19:22,008 INFO comment_head found
+2023-07-12 10:19:22,008 INFO comment found
+2023-07-12 10:19:22,009 INFO Date  found
+2023-07-12 10:19:22,009 INFO Values addded to the list
+2023-07-12 10:19:22,009 INFO name found
+2023-07-12 10:19:22,009 INFO place found
+2023-07-12 10:19:22,010 INFO rating found
+2023-07-12 10:19:22,010 INFO comment_head found
+2023-07-12 10:19:22,010 INFO comment found
+2023-07-12 10:19:22,010 INFO Date  found
+2023-07-12 10:19:22,010 INFO Values addded to the list
+2023-07-12 10:19:22,011 INFO name found
+2023-07-12 10:19:22,011 INFO place found
+2023-07-12 10:19:22,011 INFO rating found
+2023-07-12 10:19:22,011 INFO comment_head found
+2023-07-12 10:19:22,012 INFO comment found
+2023-07-12 10:19:22,012 INFO Date  found
+2023-07-12 10:19:22,012 INFO Values addded to the list
+2023-07-12 10:19:22,012 INFO name found
+2023-07-12 10:19:22,012 INFO place found
+2023-07-12 10:19:22,013 INFO rating found
+2023-07-12 10:19:22,013 INFO comment_head found
+2023-07-12 10:19:22,013 INFO comment found
+2023-07-12 10:19:22,014 INFO Date  found
+2023-07-12 10:19:22,014 INFO Values addded to the list
+2023-07-12 10:19:22,014 INFO name found
+2023-07-12 10:19:22,014 INFO place found
+2023-07-12 10:19:22,014 INFO rating found
+2023-07-12 10:19:22,015 INFO comment_head found
+2023-07-12 10:19:22,015 INFO comment found
+2023-07-12 10:19:22,015 INFO Date  found
+2023-07-12 10:19:22,015 INFO Values addded to the list
+2023-07-12 10:19:22,015 INFO name found
+2023-07-12 10:19:22,016 INFO place found
+2023-07-12 10:19:22,016 INFO rating found
+2023-07-12 10:19:22,016 INFO comment_head found
+2023-07-12 10:19:22,017 INFO comment found
+2023-07-12 10:19:22,017 INFO Date  found
+2023-07-12 10:19:22,017 INFO Values addded to the list
+2023-07-12 10:19:22,017 INFO name found
+2023-07-12 10:19:22,017 INFO place found
+2023-07-12 10:19:22,018 INFO rating found
+2023-07-12 10:19:22,018 INFO comment_head found
+2023-07-12 10:19:22,018 INFO comment found
+2023-07-12 10:19:22,018 INFO Date  found
+2023-07-12 10:19:22,018 INFO Values addded to the list
+2023-07-12 10:19:22,019 INFO name found
+2023-07-12 10:19:22,019 INFO place found
+2023-07-12 10:19:22,019 INFO rating found
+2023-07-12 10:19:22,019 INFO comment_head found
+2023-07-12 10:19:22,020 INFO comment found
+2023-07-12 10:19:22,020 INFO Date  found
+2023-07-12 10:19:22,020 INFO Values addded to the list
+2023-07-12 10:19:22,020 INFO name found
+2023-07-12 10:19:22,020 INFO place found
+2023-07-12 10:19:22,021 INFO rating found
+2023-07-12 10:19:22,021 INFO comment_head found
+2023-07-12 10:19:22,021 INFO comment found
+2023-07-12 10:19:22,022 INFO Date  found
+2023-07-12 10:19:22,022 INFO Values addded to the list
+2023-07-12 10:19:22,022 INFO name found
+2023-07-12 10:19:22,022 INFO place found
+2023-07-12 10:19:22,022 INFO rating found
+2023-07-12 10:19:22,023 INFO comment_head found
+2023-07-12 10:19:22,023 INFO comment found
+2023-07-12 10:19:22,023 INFO Date  found
+2023-07-12 10:19:22,023 INFO Values addded to the list
+2023-07-12 10:19:22,025 INFO 172.18.0.2 - - [12/Jul/2023 10:19:22] "%s" %s %s
+2023-07-12 10:19:22,086 INFO 172.18.0.2 - - [12/Jul/2023 10:19:22] "%s" %s %s
+2023-07-12 10:19:22,088 INFO 172.18.0.2 - - [12/Jul/2023 10:19:22] "%s" %s %s
